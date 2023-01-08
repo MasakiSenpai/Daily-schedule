@@ -1,6 +1,19 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  background-color: #fff4d3;
+}
+
+#bgColorOne {
+  background-color: #ffe7ce;
+}
+
+#timeBG {
+  background-color: #fff4d3;
+}
+
+.line {
+  display: inline;
 }
 
 textarea {
@@ -31,17 +44,17 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #7fa9d0;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #bde0ff;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #e0d5f7;
   color: white;
 }
 
