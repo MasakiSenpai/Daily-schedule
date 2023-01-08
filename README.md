@@ -10,3 +10,5 @@ A simple time block format allowing for daily scheduling. The current day and da
 ![Screenshot](./images/ScreenshotTwo%20.png)
 
 ## Link
+
+https://masakisenpai.github.io/Daily-schedule/
